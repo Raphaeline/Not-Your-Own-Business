@@ -135,11 +135,8 @@ a {
     float: none;
   }
 
-  .myPic {
+  .this-Pic {
     width: 250px;
   }
 
-  .myBio {
-    margin: 0 2rem;
-  }
 }
